@@ -1,2 +1,0 @@
-# Hari
-new to git
